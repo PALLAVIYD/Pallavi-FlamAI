@@ -1,4 +1,4 @@
-# Tokenizer & Serving Audit — Submission
+# Tokenizer & Serving Audit - Submission
 
 A complete audit of tokenizer fertility and LLM serving efficiency, submitted as part of the Flam AI technical assessment.
 
