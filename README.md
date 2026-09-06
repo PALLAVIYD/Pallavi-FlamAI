@@ -36,7 +36,7 @@ Recommends a tokenizer strategy for a multilingual product serving Indic languag
 
 ## Reproducibility
 
-Scripts require Python 3.10+ with:
+Scripts require Python 3.10+ with the:
 ```
 pip install tiktoken transformers sentencepiece datasets
 ```
